@@ -50,17 +50,18 @@ A highly motivated Statistics graduate with a strong foundation in data analysis
 
 ## 🛠️ Complate Course and Certification
 
-- **Programming Languages:** Python, SQL, JavaScript
-- **Frameworks & Tools:** TensorFlow, PyTorch, HuggingFace, Scikit-learn, Streamlit
-- **Visualization:** Matplotlib, Seaborn, Plotly, Tableau
-- **ML Techniques:** Classification, Regression, Clustering, NLP, Time Series Forecasting
-- **DSS Methods:** AHP, TOPSIS, Profile Matching
+- [TensorFlow: Data and Deployment](https://coursera.org/share/99f45dc5df7050b45c8ba2b3ce4340a6) | DeepLearning.AI on Coursera
+- [DeepLearning.AI TensorFlow Developer](https://coursera.org/share/c86227ac603c8726b417c9455c9d122e) | DeepLearning.AI on Coursera
+- [Machine Learning](https://coursera.org/share/50ce65896f17a43039a8f1b52cdedb76) | Stanford University & DeepLearning.AI on Coursera
+- [Mathematics for Machine Learning](https://coursera.org/share/9aa21c1057e531d8439481e024edf070) | Imperial College London on Coursera
+- [Memulai Pemrograman dengan Python](https://www.dicoding.com/certificates/QLZ9366R2Z5D) | Dicoding Academy
+- [Belajar Dasar Visualisasi Data](https://www.dicoding.com/certificates/4EXGV19YGXRL) | Dicoding Academy
 
 ---
 
 ## 📫 Contact
 
-- 📧 Email: [aljauhar.hafizh6@gmail.com]
+- 📧 Email: aljauhar.hafizh6@gmail.com
 - 🔗 LinkedIn: [linkedin.com/in/hafizhsyihabuddinaljauhar](https://www.linkedin.com/in/hafizhsyihabuddinaljauhar/)
 
 ---

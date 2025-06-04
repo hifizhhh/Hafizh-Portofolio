@@ -32,14 +32,13 @@ A highly motivated Statistics graduate with a strong foundation in data analysis
 
 ---
 
-<!--## 📁 SQL
+## 📁 SQL
 
-| No  | Project                                    | Description                                                                                 | Tools / Libraries                 | Associated   |
-| --- | ------------------------------------------ | ------------------------------------------------------------------------------------------- | --------------------------------- | ------------ |
-| 1   | [Image Captioning with QLoRA](repo-link)   | Fine-tuned QLoRA model for generating Indonesian-language captions on medical images        | PyTorch, HuggingFace, QLoRA, COCO | ............ |
-| 2   | [Multi-Armed Bandit Simulation](repo-link) | Reinforcement learning agents (Greedy, Epsilon-Greedy, UCB) in a bandit problem environment | NumPy, Matplotlib                 | ............ |
+| No  | Project                                                                                                                                                                                      | Description                                                                                                                                                                                                                                                                                                                                                                                          | Tools                      | Associated |
+| --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------- | ---------- |
+| 1   | [Comprehensive Business Intelligence Analysis of Brazilian E-Commerce Using SQL](https://github.com/hifizhhh/Comprehensive-Business-Intelligence-Analysis-of-Brazilian-E-Commerce-Using-SQL) | Evaluating business performance is crucial for every organization, as it provides insights into the effectiveness of business strategies and operational processes. This analysis project focuses on assessing the performance of an e-commerce company based on key metrics including customer growth, product category performance, and payment trends using historical data spanning three years. | PosgreeSQL, pgAdmin, Excel | Project    |
 
------>
+---
 
 ## 📁 Dashboard
 

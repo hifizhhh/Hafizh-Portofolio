@@ -55,15 +55,16 @@ A highly motivated Statistics graduate with a strong foundation in data analysis
 - [DeepLearning.AI TensorFlow Developer](https://coursera.org/share/c86227ac603c8726b417c9455c9d122e) | DeepLearning.AI on Coursera
 - [Machine Learning](https://coursera.org/share/50ce65896f17a43039a8f1b52cdedb76) | Stanford University & DeepLearning.AI on Coursera
 - [Mathematics for Machine Learning](https://coursera.org/share/9aa21c1057e531d8439481e024edf070) | Imperial College London on Coursera
-- [Memulai Pemrograman dengan Python](https://www.dicoding.com/certificates/QLZ9366R2Z5D) | Dicoding Academy
-- [Belajar Dasar Visualisasi Data](https://www.dicoding.com/certificates/4EXGV19YGXRL) | Dicoding Academy
+- [Getting Started with Python](https://www.dicoding.com/certificates/QLZ9366R2Z5D) | Dicoding Academy
+- [Learn the basics of data visualization](https://www.dicoding.com/certificates/4EXGV19YGXRL) | Dicoding Academy
+- [Learning Machine Learning for Beginners](https://www.dicoding.com/certificates/JMZVE6O6RPN9) | Dicoding Academy
 
 ---
 
 ## 📫 Contact
 
 - 📧 Email: aljauhar.hafizh6@gmail.com
-- 🔗 LinkedIn: [linkedin.com/in/hafizhsyihabuddinaljauhar](https://www.linkedin.com/in/hafizhsyihabuddinaljauhar/)
+- 🔗 LinkedIn: [Hafizh Syihabuddin Al Jauhar](https://www.linkedin.com/in/hafizhsyihabuddinaljauhar/)
 
 ---
 
